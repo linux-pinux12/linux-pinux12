@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🌟 Hello, I'm Linux! / ¡Hola, soy Linux! / မင်္ဂလာပါ၊ ကျွန်တော်က Linux ပါ။ 🌟
+# 🌟 Hello, I'm Linux!
 
 ---
 
