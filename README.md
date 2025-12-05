@@ -46,7 +46,7 @@ Siempre estoy aprendiendo nuevas herramientas y lenguajes, y compartiendo lo que
 
 ---
 
-> "VIVA LA LINUXIA!" 🌍💡
+> "VIVA LA LINUXIA!" 🐧
 
 
 <!--
